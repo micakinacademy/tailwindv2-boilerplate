@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micakinacademy/simple-javascript-quiz-game.git"
+    "url": "git+https://github.com/micakinacademy/tailwindv2-boilerplate.git"
   },
   "keywords": [
     "quiz",
@@ -19,9 +19,9 @@
   "author": "micakinacademy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micakinacademy/simple-javascript-quiz-game/issues"
+    "url": "https://github.com/micakinacademy/tailwindv2-boilerplate/issues"
   },
-  "homepage": "https://github.com/micakinacademy/simple-javascript-quiz-game#readme",
+  "homepage": "https://github.com/micakinacademy/tailwindv2-boilerplate#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",

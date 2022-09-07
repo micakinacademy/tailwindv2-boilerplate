@@ -1,44 +1,22 @@
-## SIMPLE JAVASCRIPT QUIZ GAME
+## SIMPLE TailwindCSS v 2 Boiler Plate
 
-Simple quiz game built with JS
-
-
-### For Basic Uses
-
-#### Step 1
-download the code https://github.com/micakinacademy/simple-javascript-quiz-game/archive/refs/heads/main.zip
-
-#### Step 2
-extract the main.zip file
-
-#### Step 3
-open the html file to start the game
+Clone this Repo
 
 
-### Setup Development Environment
+Setup your environment
 
-#### Step 1
-Clone the Repo 
+Navigate to the project folder and run
+```
+yarn install
 
 ```
- git clone https://github.com/micakinacademy/simple-javascript-quiz-game.git
+
+Running the Project
 ```
-Navigate to the directory
- 
-#### Step 2
-```
-cd simple-javascript-quiz-game 
+yarn build-tailwind
+
 ```
 
-#### Step 3
+app.css will be created under assets/css/
 
-Run NPM Install to get dependencies
-```
-npm install
-```
-
-#### Step 4
-Build tailwind to css file
-```
-npm run build-tailwind
-```
+You can link on the html page
